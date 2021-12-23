@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ooplab1.exe
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ooplab1.deps.json
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ooplab1.runtimeconfig.json
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ooplab1.dll
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ref\ooplab1.dll
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\bin\Debug\net6.0\ooplab1.pdb
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.dll
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ref\ooplab1.dll
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.pdb
+C:\Users\Administrator\Desktop\ITHS\oop\lab1\ooplab1\ooplab1\obj\Debug\net6.0\ooplab1.genruntimeconfig.cache
